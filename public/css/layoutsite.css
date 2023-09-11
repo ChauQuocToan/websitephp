@@ -1,0 +1,65 @@
+.toan
+{ 
+    text-decoration-line: none;
+    color:black ;
+}
+.anh
+{ 
+    text-decoration-line: none;
+    color:black ;
+    text-align: center;
+    margin-left: 20px;
+}
+.anh1
+{ 
+    text-align: center;
+}
+.l
+{ 
+    text-decoration-line: none;
+    color:red ;
+    padding-left: 89%;
+    margin-top: -2%;
+}
+.bg-mainmenu
+{ 
+    background-color:lightgreen;
+    color:black;
+}
+.sale-off
+{ 
+    border-radius: 20px;
+    background: red;
+    width: 40px;
+    height: 30px;
+    margin-left: 250px;
+}
+.toan3
+{ 
+    text-decoration-line: none;
+    color:black ;
+}
+
+.sale-off1
+{ 
+    border-radius: 20px;
+    background: red;
+    width: 40px;
+    height: 30px;
+    margin-left: 200px;
+}
+.topbar
+{
+    background-color: bisque;
+    text-decoration: none;
+    
+}
+.s1
+{
+background-color:gray;
+}
+.s2
+{
+    color:antiquewhite;
+    background-color:burlywood ;
+}
